@@ -1,7 +1,7 @@
-import LgButton from './src/button.vue'
+import loadMore from './src/loadMore.vue'
 
-LgButton.install = Vue => {
-  Vue.component(LgButton.name, LgButton)
+loadMore.install = Vue => {
+  Vue.component(loadMore.name, loadMore)
 }
 
-export default LgButton
+export default loadMore

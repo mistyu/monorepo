@@ -1,3 +1,12 @@
+## yarn workspaces
+  + 给工作区根目录安装开发依赖
+    - yarn add * -D -W
+  + 给指定工作区安装依赖
+    - yarn workspace cz-load-more(每个组件的package.name) add [包名]
+  + 给所有的工作区安装依赖
+    - yarn install
+
+
 ## 安装测试依赖
 
 ```bash
