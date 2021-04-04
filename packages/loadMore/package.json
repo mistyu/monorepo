@@ -1,6 +1,6 @@
 {
   "name": "cz-load-more",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -12,7 +12,5 @@
   "keywords": [],
   "author": "cz <lichenhui821@qq.com>",
   "license": "MIT",
-  "dependencies": {
-  },
   "gitHead": "930f550a1a0da8370aa81ab36274b6d5d281dbf8"
 }
